@@ -11,17 +11,7 @@ To securely connect two VPC networks within the same Google Cloud project using 
 3. Verified active peering status.
 4. Confirmed private IP communication enabled between both networks.
 
-## Setup Steps
-Step One: Create a VPC Network
-Sign in to your Google Cloud Console.
-Navigate to VPC Network → VPC Networks.
-Click Create VPC Network.
-Provide a Name (e.g., custom-vpc1).
-In Subnets, click Add Subnet:
-Name: subnet-1
-Region: us-central1
-IP range: 10.0.0.0/16
-Click Done and then Create
+
 
 ## Screenshots
 ![VPC Creation](images/VPC.png)
