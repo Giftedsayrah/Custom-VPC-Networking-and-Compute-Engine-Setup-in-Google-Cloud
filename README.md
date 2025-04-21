@@ -12,5 +12,5 @@ To securely connect two VPC networks within the same Google Cloud project using 
 4. Confirmed private IP communication enabled between both networks.
 
 ## Screenshots
-- ![Create Peering Connection](images/VPC.png)
-- ![Active Peering Connections](images/VPC network peering.png)
+- ![Create Peering Connection](VPC.png)
+- ![Active Peering Connections](VPC network peering.png)
