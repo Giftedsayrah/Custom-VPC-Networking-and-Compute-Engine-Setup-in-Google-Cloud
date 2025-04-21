@@ -13,4 +13,4 @@ To securely connect two VPC networks within the same Google Cloud project using 
 
 ## Screenshots
 - ![Create Peering Connection](VPC.png)
-- ![Active Peering Connections](VPC network peering.png)
+- ![Active Peering Connections](https://github.com/Giftedsayrah/Custom-VPC-Networking-and-Compute-Engine-Setup-in-Google-Cloud/blob/main/VPC%20network%20peering.png))
